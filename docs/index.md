@@ -18,15 +18,29 @@ In recent years we witnessed a huge development in machine learning, especially 
  - Biricz András
  - Csabai István
  - Pataki Bálint Ármin
+ - Udvarnoki Zoltán
 
 # News
  - to be updated
  
-# SYLLABUS
+# SYLLABUS (planned)
 
 | week        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  1 | Course introduction, technical details         | instructor       | slides, video | date |
+|  1 | Data driven approack, technical details         | Csabai István       | . | . |
+|  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | . |
+|  3 | Linear models, model selection, validation      | Udvarnoki Zoltán    | . | . |
+|  4 | Model zoo & examples                            | Pataki Bálint Ármin | . | . |
+|  5 | Fully connected neural networks                 | Biricz András       | . | . |
+|  6 | Convolutional neural networks                   | Biricz András       | . | . |
+|  7 | Practical CNN, training neural networks         | Pataki Bálint Ármin | . | . |
+|  8 | Modern CNN architectures                        | Pataki Bálint Ármin | . | . |
+|  9 | Pre-trained models, fine-tuning                 | Pataki Bálint Ármin | . | . |
+| 10 | Adversarial examples, CNN visualization         | Pataki Bálint Ármin | . | . |
+| 11 | Object detection, segmentation                  | Pataki Bálint Ármin | . | . |
+| 12 | NLP basics, word embedding                      | Udvarnoki Zoltán    | . | . |
+| 13 | Attention models                                | Pataki Bálint Ármin | . | . |
+
 
 # PREREQUISITES
  - basic linear algebra
