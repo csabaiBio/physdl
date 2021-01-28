@@ -27,7 +27,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 | week        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  1 | Data driven approack, technical details         | Csabai István       | . | . |
+|  1 | Data driven approach, technical details         | Csabai István       | . | . |
 |  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | . |
 |  3 | Linear models, model selection, validation      | Udvarnoki Zoltán    | . | . |
 |  4 | Model zoo & examples                            | Pataki Bálint Ármin | . | . |
