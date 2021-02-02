@@ -29,8 +29,8 @@ In recent years we witnessed a huge development in machine learning, especially 
 |:-------------|:------------------|:------|:------|:------|
 |  1 | Data driven approach, course technical details         | Csabai István       | . | . |
 |  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | . |
-|  3 | Linear models, model selection, validation      | Udvarnoki Zoltán    | . | . |
-|  4 | Model zoo & examples                            | Pataki Bálint Ármin | . | . |
+|  3 | Linear models, regularization                   | Udvarnoki Zoltán    | . | . |
+|  4 | Model zoo, model selection                      | Pataki Bálint Ármin | . | . |
 |  5 | Fully connected neural networks                 | Biricz András       | . | . |
 |  6 | Convolutional neural networks                   | Biricz András       | . | . |
 |  7 | Practical CNN, training neural networks         | Pataki Bálint Ármin | . | . |
