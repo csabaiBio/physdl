@@ -8,8 +8,8 @@ In recent years we witnessed a huge development in machine learning, especially 
 # Technical details:
 - Neptun: deeplea17m
 - Language: Hungarian (slides and the materials in English)
-- Start date: TBA
-- Time: TBA
+- Start date: 2021.02.09 09:15 (CET)
+- Time: 09:15 - 10:45
 
 # Questions, problems:
 - contact us on TEAMS or via email
@@ -19,27 +19,24 @@ In recent years we witnessed a huge development in machine learning, especially 
  - Csabai István
  - Pataki Bálint Ármin
  - Udvarnoki Zoltán
-
-# News
- - to be updated
  
 # SYLLABUS (planned)
 
 | week        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  1 | Data driven approach, course technical details         | Csabai István       | . | . |
-|  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | . |
-|  3 | Linear models, regularization                   | Udvarnoki Zoltán    | . | . |
-|  4 | Model zoo, model selection                      | Pataki Bálint Ármin | . | . |
-|  5 | Fully connected neural networks                 | Biricz András       | . | . |
-|  6 | Convolutional neural networks                   | Biricz András       | . | . |
-|  7 | Practical CNN, training neural networks         | Pataki Bálint Ármin | . | . |
-|  8 | Modern CNN architectures                        | Pataki Bálint Ármin | . | . |
-|  9 | Pre-trained models, fine-tuning                 | Pataki Bálint Ármin | . | . |
-| 10 | Adversarial examples, CNN visualization         | Pataki Bálint Ármin | . | . |
-| 11 | Object detection, segmentation                  | Pataki Bálint Ármin | . | . |
-| 12 | NLP basics, word embedding                      | Udvarnoki Zoltán    | . | . |
-| 13 | Attention models                                | Pataki Bálint Ármin | . | . |
+|  1 | Data driven approach, course technical details  | Csabai István       | . | 2021.02.09. |
+|  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | 2021.02.16. |
+|  3 | Linear models, regularization                   | Udvarnoki Zoltán    | . | 2021.02.23. |
+|  4 | Model zoo, model selection                      | Pataki Bálint Ármin | . | 2021.03.02. |
+|  5 | Fully connected neural networks                 | Biricz András       | . | 2021.03.09. |
+|  6 | Convolutional neural networks                   | Biricz András       | . | 2021.03.16. |
+|  7 | Practical CNN, training neural networks         | Pataki Bálint Ármin | . | 2021.03.23. |
+|  8 | Modern CNN architectures                        | Pataki Bálint Ármin | . | 2021.03.30. |
+|  9 | Pre-trained models, fine-tuning                 | Pataki Bálint Ármin | . | 2021.04.13. |
+| 10 | Adversarial examples, CNN visualization         | Pataki Bálint Ármin | . | 2021.04.20. |
+| 11 | Object detection, segmentation                  | Pataki Bálint Ármin | . | 2021.04.27. |
+| 12 | NLP basics, word embedding                      | Udvarnoki Zoltán    | . | 2021.05.04. |
+| 13 | Attention models                                | Pataki Bálint Ármin | . | 2021.05.11. |
 
 
 # PREREQUISITES
