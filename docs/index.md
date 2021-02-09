@@ -24,7 +24,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 | week        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  1 | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides](), [technical details]() | 2021.02.09. |
+|  1 | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides](http://patbaa.web.elte.hu/physdl_21/01_intro_csabai.pdf), [technical details](http://patbaa.web.elte.hu/physdl_21/01_technical_details_deeplea17em.pdf) | 2021.02.09. |
 |  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | 2021.02.16. |
 |  3 | Linear models, regularization                   | Udvarnoki Zoltán    | . | 2021.02.23. |
 |  4 | Model zoo, model selection                      | Pataki Bálint Ármin | . | 2021.03.02. |
