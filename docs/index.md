@@ -9,7 +9,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 - Neptun: deeplea17m
 - Language: Hungarian (slides and the materials in English)
 - Start date: 2021.02.09 09:15 (CET)
-- Time: 09:15 - 10:45, Tuesday
+- Time: 10:15 - 11:45, Tuesday
 
 # Questions, problems:
 - contact us on TEAMS or via email
@@ -24,7 +24,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 | week        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  1 | Data driven approach, course technical details  | Csabai István       | . | 2021.02.09. |
+|  1 | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides](), [technical details]() | 2021.02.09. |
 |  2 | Machine learning introduction                   | Pataki Bálint Ármin | . | 2021.02.16. |
 |  3 | Linear models, regularization                   | Udvarnoki Zoltán    | . | 2021.02.23. |
 |  4 | Model zoo, model selection                      | Pataki Bálint Ármin | . | 2021.03.02. |
