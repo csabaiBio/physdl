@@ -8,7 +8,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 # Technical details:
 - Neptun: deeplea17m
 - Language: Hungarian (slides and the materials in English)
-- Start date: 2021.02.09 09:15 (CET)
+- Start date: 2021.02.09 
 - Time: 10:15 - 11:45, Tuesday
 
 # Questions, problems:
