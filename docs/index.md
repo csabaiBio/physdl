@@ -33,9 +33,9 @@ In recent years we witnessed a huge development in machine learning, especially 
 |  4 | Model zoo, model selection                      | Pataki Bálint Ármin | [video](https://youtu.be/JSRymmtqbAQ), [slide](http://patbaa.web.elte.hu/physdl_21/04_model_zoo.pdf), [code1](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/ML_model_zoo.ipynb), [code2](http://patbaa.web.elte.hu/physdm/hw_solutions/08_SOLVED_tree_models_hw.html) | 2021.03.02. |
 |  5 | Fully connected neural networks                 | Biricz András       | [video](https://youtu.be/HF785QRAebo), [slide](http://patbaa.web.elte.hu/physdl_21/05_fully_connected_biricz.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/fully_connected.ipynb) | 2021.03.09. |
 |  6 | Convolutional neural networks                   | Biricz András       | [video](https://youtu.be/R667YhmZNFg), [slide](http://patbaa.web.elte.hu/physdl_21/06_CNN_biricz.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/first_cnn.ipynb) | 2021.03.16. |
-|  7 | Practical CNN, training neural networks         | Pataki Bálint Ármin | . | 2021.03.23. |
-|  8 | Modern CNN architectures                        | Pataki Bálint Ármin | . | 2021.03.30. |
-|  9 | Pre-trained models, fine-tuning                 | Pataki Bálint Ármin | . | 2021.04.13. |
+|  7 | More about NNs                                  | Pataki Bálint Ármin | [slide](http://patbaa.web.elte.hu/physdl_21/07_nn_recap.pdf), [cnn_inference_code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/cnn_inference.ipynb), [kaggle_help](http://patbaa.web.elte.hu/physdl_21/07_kaggle_help_wo_code.html) | 2021.03.23. |
+|  8 | Pre-trained models, fine-tuning, training CNNs  | Pataki Bálint Ármin | . | 2021.03.30. |
+|  9 | Modern CNN architectures                        | Pataki Bálint Ármin | . | 2021.04.13. |
 | 10 | Adversarial examples, CNN visualization         | Pataki Bálint Ármin | . | 2021.04.20. |
 | 11 | Object detection, segmentation                  | Pataki Bálint Ármin | . | 2021.04.27. |
 | 12 | NLP basics, word embedding                      | Udvarnoki Zoltán    | . | 2021.05.04. |
