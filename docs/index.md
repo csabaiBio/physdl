@@ -37,7 +37,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 |  5 | Fully connected neural networks                 | Biricz András       | [video](https://youtu.be/HF785QRAebo), [slide](http://patbaa.web.elte.hu/physdl_21/05_fully_connected_biricz.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/fully_connected.ipynb) | 2021.03.09. |
 |  6 | Convolutional neural networks                   | Biricz András       | [video](https://youtu.be/R667YhmZNFg), [slide](http://patbaa.web.elte.hu/physdl_21/06_CNN_biricz.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/first_cnn.ipynb) | 2021.03.16. |
 |  7 | More about NNs                                  | Pataki Bálint Ármin | [video](https://youtu.be/OkxxUuUhPQE), [slide](http://patbaa.web.elte.hu/physdl_21/07_nn_recap.pdf), [cnn_inference_code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/cnn_inference.ipynb), [kaggle_help](http://patbaa.web.elte.hu/physdl_21/07_kaggle_help_wo_code.html) | 2021.03.23. |
-|  8 | Pre-trained models, fine-tuning, training CNNs  | Pataki Bálint Ármin | . | 2021.03.30. |
+|  8 | Pre-trained models, fine-tuning, training CNNs  | Pataki Bálint Ármin | [slide](http://patbaa.web.elte.hu/physdl_21/08_train_cnn_finetune.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/cnn_fine_tuning.ipynb) | 2021.03.30. |
 |  9 | Modern CNN architectures                        | Pataki Bálint Ármin | . | 2021.04.13. |
 | 10 | Adversarial examples, CNN visualization         | Pataki Bálint Ármin | . | 2021.04.20. |
 | 11 | Object detection, segmentation                  | Pataki Bálint Ármin | . | 2021.04.27. |
