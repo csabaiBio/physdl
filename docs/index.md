@@ -4,6 +4,9 @@ layout: default
 
 # News
 - The first [Kaggle challenge](https://www.kaggle.com/t/015575186d82440c994766c32beeb9c9) is live. You can download challenge data only through the provided link! The submission deadline is 31 March, 23:59 (UTC). 
+- The first [Kaggle challenge](https://www.kaggle.com/t/b9e647ee059f4d6d84348791bd6f7af7) is live. You can download challenge data only through the provided link! The submission deadline is 20 May, 23:59 (UTC). 
+
+
 
 # Course info
 In recent years we witnessed a huge development in machine learning, especially in deep learning which drives a new technological revolution. These models improve searches, apps, social media and open new doors in medicine, automation, self-driving cars, drones and almost all fields of science. In this introductory deep learning class students will learn about neural networks, objectives, optimization algorithms and different architectures. During the semester students will work on two projects, where students try out different algorithms and architectures. To successfully complete the class, prior knowledge in Python (numpy, pandas, matplotlib) is required. During the course the students will learn about and will get comfortable with popular deep learning frameworks, mainly Keras and Tensorflow.
