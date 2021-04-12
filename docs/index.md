@@ -4,7 +4,7 @@ layout: default
 
 # News
 - The first [Kaggle challenge](https://www.kaggle.com/t/015575186d82440c994766c32beeb9c9) is live. You can download challenge data only through the provided link! The submission deadline is 31 March, 23:59 (UTC). 
-- The first [Kaggle challenge](https://www.kaggle.com/t/b9e647ee059f4d6d84348791bd6f7af7) is live. You can download challenge data only through the provided link! The submission deadline is 20 May, 23:59 (UTC). 
+- The second [Kaggle challenge](https://www.kaggle.com/t/b9e647ee059f4d6d84348791bd6f7af7) is live. You can download challenge data only through the provided link! The submission deadline is 20 May, 23:59 (UTC). 
 
 
 
