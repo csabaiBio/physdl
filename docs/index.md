@@ -41,7 +41,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 |  9 | Modern CNN architectures                        | Pataki Bálint Ármin | [video](https://youtu.be/oOkAnAI4hjA), [slide](http://patbaa.web.elte.hu/physdl_21/09_modern_cnn_architectures.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/cnn_architectures.ipynb) | 2021.04.13. |
 | 10 | Adversarial examples, CNN visualization         | Pataki Bálint Ármin | [video](https://youtu.be/fdSl7MVluFU), [slide](http://patbaa.web.elte.hu/physdl_21/10_cnn_vis_adversarial.pdf), [neuron_activ_code](https://github.com/patbaa/demo_notebooks/blob/master/CNN_vis.ipynb), [class_activ_maps_code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/class_activation_maps.ipynb), [adversarial_code](https://github.com/patbaa/demo_notebooks/blob/master/adversarial.ipynb) | 2021.04.20. |
 | 11 | Object detection, segmentation                  | Pataki Bálint Ármin | [video](https://youtu.be/wgzS5So70lE), [slide](http://patbaa.web.elte.hu/physdl_21/11_segmentation.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/segmentation_network.ipynb) | 2021.04.27. |
-| 12 | NLP basics, word embedding                      | Udvarnoki Zoltán    | . | 2021.05.04. |
+| 12 | NLP basics, word embedding                      | Udvarnoki Zoltán    | [slide](http://patbaa.web.elte.hu/physdl_21/12_nlp_basics.pdf), [train_w2v](http://patbaa.web.elte.hu/physdl_21/train_word2vec.html), [embeddings](http://patbaa.web.elte.hu/physdl_21/embeddings.html), [LSTM](http://patbaa.web.elte.hu/physdl_21/LSTM.html) | 2021.05.04. |
 | 13 | Attention models                                | Pataki Bálint Ármin | . | 2021.05.11. |
 
 
