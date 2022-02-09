@@ -25,7 +25,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 * your grade will be the sum of your points
 
 # Questions, problems:
-- contact us via email: olaralex@student.elte.hu, abiricz@student.elte.hu
+- contact us via email: olaralex@student.elte.hu, abiricz@student.elte.hu, udvzoli@student.elte.hu
 
 # Course staff
  - Biricz András
