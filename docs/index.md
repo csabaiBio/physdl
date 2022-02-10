@@ -38,10 +38,10 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 | week        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  1 | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides](https://olaralex.web.elte.hu/physdl_21_22_II/01_intro_csabai.pdf), [technical details](http://olaralex.web.elte.hu/physdl_21_22_II/01_technical_details_deeplea17em.pdf) | 2021.02.09. |
-|  2 | Machine learning introduction                   | Pataki Bálint Ármin | [video](https://youtu.be/AXl6B2xun1g), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/02_ml_intro_deeplea17em.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/data_handling_examples.ipynb) | 2021.02.16. |
-|  3 | Linear models, regularization                   | Udvarnoki Zoltán    | [video](https://youtu.be/MqNxUqjQQL0), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/03_linear_udvarnoki.pdf), [code](http://olaralex.web.elte.hu/physdl_21_22_II/regulatization_linear_models.html) | 2021.02.23. |
-|  4 | Model zoo, model selection                      | Pataki Bálint Ármin | [video](https://youtu.be/JSRymmtqbAQ), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/04_model_zoo.pdf), [code1](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/ML_model_zoo.ipynb), [code2](https://gist.github.com/masterdesky/8774fed42370f72b358139155b6f02ff) | 2021.03.02. |
+|  1 | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides](https://olaralex.web.elte.hu/physdl_21_22_II/01_intro_csabai.pdf), [technical details](http://olaralex.web.elte.hu/physdl_21_22_II/01_technical_details_deeplea17em.pdf) | 2021.02.10. |
+|  2 | Machine learning introduction                   | Pataki Bálint Ármin | [video](https://youtu.be/AXl6B2xun1g), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/02_ml_intro_deeplea17em.pdf), [code](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/data_handling_examples.ipynb) | 2021.02.17. |
+|  3 | Linear models, regularization                   | Udvarnoki Zoltán    | [video](https://youtu.be/MqNxUqjQQL0), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/03_linear_udvarnoki.pdf), [code](http://olaralex.web.elte.hu/physdl_21_22_II/regulatization_linear_models.html) | 2021.02.24. |
+|  4 | Model zoo, model selection                      | Pataki Bálint Ármin | [video](https://youtu.be/JSRymmtqbAQ), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/04_model_zoo.pdf), [code1](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/ML_model_zoo.ipynb), [code2](https://gist.github.com/masterdesky/8774fed42370f72b358139155b6f02ff) | 2021.03.03. |
 
 # PREREQUISITES
  - basic linear algebra
