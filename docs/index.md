@@ -4,7 +4,8 @@ layout: default
 
 # News
 
-* The first month of university will be ONLINE, therefore we are releasing the video lectures for the first 4 occasions and we will do a consultation every Thursday from 15:00 - 16:00 on Google meet: https://meet.google.com/axr-xhcy-ckf
+* The first month of university will be ONLINE, therefore we are releasing the video lectures for the first 4 occasions and we will do a consultation every Thursday from 15:00 - 16:00 on Google meet: [https://meet.google.com/axr-xhcy-ckf](https://meet.google.com/axr-xhcy-ckf)
+* The consultation is only optional, no need to come, only if you have questions, comments, special needs, etc. this occasion will be held in person too when the university will open ('Fogadó óra' in Hungarian)
 * We will discuss the offline occasion schedule later (maybe the Neptun adminsitrators will update it by then...)
 
 
@@ -14,7 +15,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 # Technical details:
 - Neptun: deeplea17m
 - Language: Hungarian (slides and the materials in English)
-- Start date: 2022.02.10. 
+- Start date: 2022.02.10. (consultation starts only next week)
 - Time: TBD
 
 # Grading
@@ -25,7 +26,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 * your grade will be the sum of your points
 
 # Questions, problems:
-- contact us via email: olaralex@student.elte.hu, abiricz@student.elte.hu, udvzoli@student.elte.hu
+- contact us via email: olaralex@student.elte.hu, zoltan.andras.udvarnoki@ttk.elte.hu
 
 # Course staff
  - Biricz András
