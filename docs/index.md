@@ -25,6 +25,13 @@ In recent years we witnessed a huge development in machine learning, especially 
 * extra points for being in top 10%
 * your grade will be the sum of your points
 
+## 1st Kaggle competition
+
+* [LINK](https://www.kaggle.com/c/physdl-mhc-2021-22/overview)
+* due date: 10, April, 2022 (midnight)
+* 3 submissions per day
+* automated, we CANNOT accept late entries (!!!)
+
 # Questions, problems:
 - contact us via email: olaralex@student.elte.hu, zoltan.andras.udvarnoki@ttk.elte.hu
 
@@ -44,6 +51,8 @@ In recent years we witnessed a huge development in machine learning, especially 
 |  4 | Model zoo, model selection                      | Pataki Bálint Ármin | [video](https://youtu.be/JSRymmtqbAQ), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/04_model_zoo.pdf), [code1](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/ML_model_zoo.ipynb), [code2](https://gist.github.com/masterdesky/8774fed42370f72b358139155b6f02ff) | 2021.02.24. |
 |  5 | Fully connected neural networks                 | Biricz András       | [video](https://youtu.be/HF785QRAebo), [slide](http://olaralex.web.elte.hu/physdl_21_22_II/05_fully_connected_biricz.pdf), [code](https://colab.research.google.com/gist/qbeer/faa0756093e15e1fad8c1de46dfde193/fully_connected.ipynb) | 2021.03.03. |
 |  6 | Convolutional neural networks                   | Biricz András       | [video](https://youtu.be/R667YhmZNFg), [slide](http://patbaa.web.elte.hu/physdl_21/06_CNN_biricz.pdf), [code](https://colab.research.google.com/gist/qbeer/1b197cfba07a73a4fa7a9c20c847bc4d/first_cnn.ipynb) | 2021.03.10. |
+|  7 | More about NNs                                  | Pataki Bálint Ármin | [video](https://youtu.be/OkxxUuUhPQE), [slide](https://olaralex.web.elte.hu/physdl_21_22_II/07_nn_recap.pdf), [cnn_inference_code](https://colab.research.google.com/gist/qbeer/53016d3eb64c9c286155e1b51681e836/cnn_inference.ipynb) | 2021.03.17. |
+|  8 | Pre-trained models, fine-tuning, training CNNs  | Pataki Bálint Ármin | [video](https://youtu.be/wS_EsfMkeEc), [slide](https://olaralex.web.elte.hu/physdl_21_22_II/08_train_cnn_finetune.pdf), [code](https://colab.research.google.com/gist/qbeer/2dc618cd24e861336cfd58e13f334a19/cnn_fine_tuning.ipynb) | 2021.03.30. |
 
 # PREREQUISITES
  - basic linear algebra
