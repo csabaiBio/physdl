@@ -35,7 +35,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 ## 2nd Kaggle competition
 
 * [LINK](https://www.kaggle.com/competitions/elte-traffic-signs/overview)
-* due date: 15, May, 2022 (midnight)
+* due date: 22, May, 2022 (midnight)
 * 3 submissions per day
 * automated, we CANNOT accept late entries (!!!)
 
