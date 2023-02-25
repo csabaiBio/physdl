@@ -54,7 +54,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 | parts        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  I. | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides](https://olaralex.web.elte.hu/physdl_21_22_II/01_intro_csabai.pdf), [technical details](http://olaralex.web.elte.hu/physdl_21_22_II/01_technical_details_deeplea17em.pdf) | 2023.02. ?. |
+|  I. | Data driven approach, course technical details  | Csabai István       | [video](https://youtu.be/eb8efdIZ3j8), [slides]() | 2023.02. ?. |
 |  II. | Introduction to machine learning                   | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | TBD |
 | III. | Introduction to deep learning | Olar Alex | [notebooks](TBA), [slide](TBA) | TBD |
 | IV. | Deeper dive into deep learning | Olar Alex  | [notebooks](TBA), [slide](TBA) | TBD |
@@ -65,7 +65,7 @@ In recent years we witnessed a huge development in machine learning, especially 
  - Python (numpy, pandas, matplotlib)
 
 # Grading
-During the semester there will be two Kaggle in-class challenges with written reports after each of them. [Report outline]().
+During the semester there will be two Kaggle in-class challenges with written reports after each of them. [Report outline](https://docs.google.com/document/d/1GCK_Ohs5fwb0ewYXgbu3nOxVj_ICbAsDqkZERDd0rAk/edit?usp=sharing).
 
 * ***your grade will be the sum of your points***
     * the ideal point range should in the range (4, 10]
