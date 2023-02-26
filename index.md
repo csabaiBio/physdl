@@ -37,7 +37,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 * TBA
 
 # Questions, problems:
-- contact us via email: olaralex@ttk.elte.hu
+- contact us via email: olar.alex@ttk.elte.hu
 
 # Course staff
  - Biricz András
