@@ -17,26 +17,35 @@ In recent years we witnessed a huge development in machine learning, especially 
 * predefined points with thresholds
     * above minimal baseline: 2 point
     * above baseline: 3 points
-    * being in the top 20% of solutions: 4 points 
+    * being in the top 50% of solutions: 4 points 
 * extra points could be awarded for a high-quality report
     * the maximal reward / report: 1 point
 * ***your grade will be the sum of your points***
     * the ideal point range should in the range (4, 10]
     * grading:
-        * **[5.0, 6.5): 2**
-        * **[6.5, 7.5]: 3**
-        * **[7.5, 8.5): 4**
-        * **[8.5, 10.]: 5**
+        * **[5.0, 6.): 2**
+        * **[6., 7.]: 3**
+        * **[7., 8.): 4**
+        * **[8., 10.]: 5**
+
+* if you are not content with you grade after the end ***YOU CAN APPLY FOR AN ORAL EXAM***
+    * you cannot get a worse grade
+    * no topics, any question could be asked from the lectures
 
 ## 1st Kaggle competition
 
-* TBA
+Early availability of challanges, they could still be modified.
+
+* [ELTE SARS-COV2 ACE2 binding prediction](https://www.kaggle.com/t/5b9b51058c494f0d965238da16af8f40)
 
 ## 2nd Kaggle competition
 
-* TBA
+Early availability of challanges, they could still be modified.
+
+* [Introduction to DL - OCR challenge](https://www.kaggle.com/t/7ab2c7c969f84ccdba22cbbf1d86a7aa)
 
 # Questions, problems:
+
 - contact us via email: olar.alex@ttk.elte.hu
 
 # Course staff
@@ -50,26 +59,25 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 | parts        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
-|  I. | Data driven approach, course technical details  | Csabai István       | [slides](TBA) | 2023.02. ?. |
-|  II. | Introduction to machine learning                   | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | TBD |
-| III. | Introduction to deep learning | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | TBD |
-| IV. | Deeper dive into deep learning | Olar Alex  | [notebooks](TBA), [slide](TBA) | TBD |
+|  I. | Introduction to machine learning                   | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | **2023. 03. 14.** |
+| II. | Introduction to deep learning | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | TBD |
+| III. | Deeper dive into deep learning | Olar Alex  | [notebooks](TBA), [slide](TBA) | TBD |
 
 # PREREQUISITES
  - Linear algebra
  - Probability and statistics
  - Python (numpy, pandas, matplotlib)
 
-# Grading
+# Reporting
 During the semester there will be two Kaggle in-class challenges with written reports after each of them. [Report outline](https://docs.google.com/document/d/1GCK_Ohs5fwb0ewYXgbu3nOxVj_ICbAsDqkZERDd0rAk/edit?usp=sharing).
 
 * ***your grade will be the sum of your points***
     * the ideal point range should in the range (4, 10]
     * grading:
-        * **[5.0, 6.5): 2**
-        * **[6.5, 7.5]: 3**
-        * **[7.5, 8.5): 4**
-        * **[8.5, 10.]: 5**
+        * **[5.0, 6.): 2**
+        * **[6., 7.]: 3**
+        * **[7., 8.): 4**
+        * **[8., 10.]: 5**
 
 # Materials
  - [Python for Data Science, Coursera](https://www.coursera.org/learn/python-for-applied-data-science)
