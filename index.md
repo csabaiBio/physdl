@@ -36,7 +36,7 @@ In recent years we witnessed a huge development in machine learning, especially 
 
 Early availability of challanges, they could still be modified.
 
-* [ELTE SARS-COV2 ACE2 binding prediction](https://www.kaggle.com/t/5b9b51058c494f0d965238da16af8f40)
+* [Introduction to ML - ACE2 binding prediction](https://www.kaggle.com/t/5b9b51058c494f0d965238da16af8f40)
 
 ## 2nd Kaggle competition
 
