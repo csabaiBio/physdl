@@ -60,7 +60,7 @@ Early availability of challanges, they could still be modified.
 | parts        | topics          | instructor | materials | date |
 |:-------------|:------------------|:------|:------|:------|
 |  I. | Introduction to machine learning                   | Olar Alex | **notebooks**: [1](http://patbaa.web.elte.hu/physdm/code_examples/01_SOLVED_EDA.html), [2](https://gist.github.com/qbeer/a43b741b36091a974c45e0dc80652d90), [3](https://gist.github.com/udvzol/63f79c574a88500480846805e9681af5#file-lab03-ipynb), [4](https://gist.github.com/bedohazizsolt/012243a6997ca3cf4f3768299da5f74e), [5](https://gist.github.com/qbeer/9a831895cf4c81683eafebc398592731), [6](https://qbeer.github.io/assets/static/regression), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | **2023. 03. 14.** |
-| II. | Introduction to deep learning | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | TBD |
+| II. | Introduction to deep learning | Olar Alex | [notebooks](TBA), [slide](https://docs.google.com/presentation/d/1NkD2Lv5exSOfGzJbxzWHweddV0abCC9o/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) | **2023. 04. 18.** |
 | III. | Deeper dive into deep learning | Olar Alex  | [notebooks](TBA), [slide](TBA) | TBD |
 
 # PREREQUISITES
