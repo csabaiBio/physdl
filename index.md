@@ -9,7 +9,6 @@ In recent years we witnessed a huge development in machine learning, especially 
 # Technical details:
 - Neptun: deeplea17m
 - Language: Hungarian (slides and the materials in English)
-- Start date: 2023/02/TBD
 
 # Grading
 
