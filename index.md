@@ -48,11 +48,8 @@ Early availability of challanges, they could still be modified.
 - contact us via email: olar.alex@ttk.elte.hu
 
 # Course staff
- - Biricz András
- - Bedőházi Zsolt
- - Kilim Oz
- - Olar Alex
  - Csabai István
+ - Dudás Bence
  
 # SYLLABUS
 
@@ -66,6 +63,7 @@ Early availability of challanges, they could still be modified.
  - Linear algebra
  - Probability and statistics
  - Python (numpy, pandas, matplotlib)
+ - Data Mining and Machine Learning
 
 # Reporting
 During the semester there will be two Kaggle in-class challenges with written reports after each of them. [Report outline](https://docs.google.com/document/d/1GCK_Ohs5fwb0ewYXgbu3nOxVj_ICbAsDqkZERDd0rAk/edit?usp=sharing).
