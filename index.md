@@ -17,7 +17,7 @@ To apply this course you have to complete the previous [machine learning lecture
 
 # Grading
 
-* The grade will be based on what progress you made and how ward project you chose.  
+* The grade will be based on what progress you made and how hard project you chose.  
 
 
 # Questions, problems:
